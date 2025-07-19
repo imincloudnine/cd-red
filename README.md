@@ -1,0 +1,1 @@
+## idk bruh, just logs, notes, and all
