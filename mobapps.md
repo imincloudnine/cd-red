@@ -26,4 +26,7 @@ emulator -adv <emulator name>
 
 # in another terminal, in your project folder
 flutter run
+
+# to run specific file
+flutter run --target=lib/file.dart
 ```

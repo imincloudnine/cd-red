@@ -28,3 +28,11 @@ rm folder
 ```
 keytool -genkey -v -keystore debug.keystore -storepass android -alias androiddebugkey -keypass android -keyalg RSA -keysize 2048 -validity 10000
 ```
+
+### to simplify things
+```
+alias emu="emulator -avd pixel"
+
+# then
+emu
+```
